@@ -1,0 +1,13 @@
+.primaryText{background:#000;width:100%;border-radius: 10px 10px 0px 0px;}
+
+.form{
+    margin-top:0px;
+    border:solid 2px black;
+    border-radius: 0px 0px 10px 10px;
+    height: 300px;
+    overflow: hidden;
+}
+.margenes{
+    margin-top: 20px;
+    width: 60%;
+}
